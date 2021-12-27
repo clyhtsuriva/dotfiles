@@ -1,3 +1,6 @@
+# DEPRECATED
+# LOOK INTO [HTTPS://GIT.ADJUTOR.XYZ/DOTFILES.GIT](https://git.adjutor.xyz/dotfiles.git)
+
 # dotfiles
 
 This repository contains my dotfiles and other configuration files.
